@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "id": "DEfWXY1",
+      "title": "Project 1",
+      "body": "This is a sample project",
+      "publishedAt": "2020-10-01"
+    },
+    {
+      "id": "UVwXYZ2",
+      "title": "Project 2",
+      "body": "This is a sample project",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": "GHiXYZ3",
+      "title": "Project 3",
+      "body": "This is a sample project",
+      "publishedAt": "2020-10-03"
+    },
+    {
+      "title": "Project 4",
+      "body": "This is a sample content for project 4.",
+      "publishedAt": "2020-11-01",
+      "id": "XPyIVC1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Aditi Rao",
+      "email": "aditi@example.com"
+    },
+    {
+      "name": "Anil Ray",
+      "email": "anil@example.com",
+      "id": "8yZL4my"
+    },
+    {
+      "name": "Avai Rai",
+      "email": "avai@example.com",
+      "id": "b_MlVoK"
+    }
+  ]
+}
