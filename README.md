@@ -1,7 +1,8 @@
 # React CRUD Admin on DB tables
 
-> Sample CRUD admin on db tables
-> Uses react-admin framework
+- Sample CRUD admin on db tables
+
+- Uses react-admin framework
 
 ## Usage
 
